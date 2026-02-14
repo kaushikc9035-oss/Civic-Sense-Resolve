@@ -1,0 +1,7 @@
+{
+  "name": "CivicResolve AI",
+  "description": "A crowd-sourced civic issue reporting and resolution system. Citizens can report issues with photos and location, which are then analyzed by AI and routed to the appropriate municipal department for resolution and tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
